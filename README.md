@@ -2,9 +2,9 @@
 
 <h1><img src="https://media.tenor.com/R6A1Nc-beKwAAAAj/rose-flower.gif" class="moksh" height="40px" width="40px"> MOKSH  <img src="https://media.tenor.com/R6A1Nc-beKwAAAAj/rose-flower.gif" class="moksh" height="40px" width="40px"></h1>
 <p align="center">
- <img src=".../Images/rejuvenate.png" width="150"/>
- <img src=".../Images/moksh.jpeg" width="150"/> 
- <img src=".../Images/rejuvenate.png" width="150"/>
+ <img src="/Images/rejuvenate.png" width="150"/>
+ <img src="/Images/moksh.jpeg" width="150"/> 
+ <img src="/Images/rejuvenate.png" width="150"/>
 </p>
 
 ### _Unlock your potential and achieve true balance in life with Moksh!_
@@ -16,16 +16,6 @@
 <h5>Demo Video on Youtube - <a href="https://youtu.be/wfdF___qNME">Link</a> (In case there is an error loading the embedded video below 👇)<h5>
 
 https://github.com/Pratik-11/Moksh/assets/72139212/9a1cad69-7829-4d2b-94e8-9eadb2128b0b
-	
-		
-## 🐦 Latest Tweet
-
-
-<p>
-  <a href="https://www.twitter.com/ExperienceMoksh">
-    <img src="https://gtce.itsvg.in/api?username=ExperienceMoksh" alt="Latest Tweet">
-  </a>
-</p>
 
 
 ## About The Project 💫
@@ -33,11 +23,11 @@ https://github.com/Pratik-11/Moksh/assets/72139212/9a1cad69-7829-4d2b-94e8-9eadb
 ### Mental Health Problems
 
 <p align="center">
-  <img src=".../Images/anxiety.png" width="150"/>
-  <img src=".../Images/ANGRY.png" width="150"/> 
-  <img src=".../Images/compare.png" width="150"/>
-  <img src=".../Images/fear.png" width="150"/>
-  <img src=".../Images/ego.png" width="150"/>
+  <img src="/Images/anxiety.png" width="150"/>
+  <img src="/Images/ANGRY.png" width="150"/> 
+  <img src="/Images/compare.png" width="150"/>
+  <img src="/Images/fear.png" width="150"/>
+  <img src="/Images/ego.png" width="150"/>
 </p>
 
 There are numerous mental problems affecting the people in modern society, including fear, false egos, anxiety, comparisons, competitions, peer pressure and stressful work environment. Mental health issues can lead to physical discomforts such as headaches, stomach aches, difficulty sleeping, irritability, and inability to focus. If left unaddressed, chronic stress can exacerbate these symptoms and give rise to more severe health concerns, including anxiety, hypertension, and reduced immunity.
