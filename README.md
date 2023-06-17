@@ -1,13 +1,8 @@
 <div align="center">
 
 <h1><img src="https://media.tenor.com/R6A1Nc-beKwAAAAj/rose-flower.gif" class="moksh" height="40px" width="40px"> MOKSH  <img src="https://media.tenor.com/R6A1Nc-beKwAAAAj/rose-flower.gif" class="moksh" height="40px" width="40px"></h1>
-<p align="center">
- <img src="/Images/rejuvenate.png" width="150"/>
- <img src="/Images/moksh.jpeg" width="150"/> 
- <img src="/Images/rejuvenate.png" width="150"/>
-</p>
 
-### _Unlock your potential and achieve true balance in life with Moksh!_
+### _A Spiritual Productivity Tool for LGBTQIA._
 
 </div>
 
@@ -20,29 +15,20 @@ https://github.com/Pratik-11/Moksh/assets/72139212/9a1cad69-7829-4d2b-94e8-9eadb
 
 ## About The Project 💫
 
-### Mental Health Problems
+### Embracing Our LGBTQIA+ Identity: Finding Pride and Balance Through Religion
 
-<p align="center">
-  <img src="/Images/anxiety.png" width="150"/>
-  <img src="/Images/ANGRY.png" width="150"/> 
-  <img src="/Images/compare.png" width="150"/>
-  <img src="/Images/fear.png" width="150"/>
-  <img src="/Images/ego.png" width="150"/>
-</p>
+In the exploration of religion's compatibility with LGBTQIA+ identity, we discover inspiring stories within one of the world's oldest religions, showcasing immense respect and love for our community. The shift needed lies within people's mindset, not religion itself. Our site promotes religious support for LGBTQIA+ individuals, fostering inclusive communities and providing mental health resources. By celebrating diversity and embracing our faith, we can find pride, balance and personal growth in our journey.
 
-There are numerous mental problems affecting the people in modern society, including fear, false egos, anxiety, comparisons, competitions, peer pressure and stressful work environment. Mental health issues can lead to physical discomforts such as headaches, stomach aches, difficulty sleeping, irritability, and inability to focus. If left unaddressed, chronic stress can exacerbate these symptoms and give rise to more severe health concerns, including anxiety, hypertension, and reduced immunity.
 
-### ✨ A Spiritual Productivity Tool for Mental Wellness
+### ✨ A Spiritual Productivity Tool for the Queer Community
 
-Moksh is a spiritual productivity tool designed for individuals who want to unlock their potential and achieve true balance in life. Our customized spiritual features help you take control of your work, focus on what truly matters, and rejuvenate your mind and spirit. By reading Bhagavad Gita, we become soul conscious and gain the strength to fight life's challenges. With Moksh, you can overcome the mental problems that arise from our body consciousness and find true happiness.
+Within the sanctuary of Moksh, the LGBTQIA+ community discovers a haven, a space where the complexities of their existence are not only acknowledged but cherished. This extraordinary platform offers a method, a transformative journey that intertwines the threads of faith, self-discovery, and rejuvenation. Through the divine embrace of their chosen religion, individuals embark on a profound odyssey of healing, self-acceptance, and spiritual growth.
 
 ### ✨ Features
 * Augmented Reality Bhagavad Gita Meditation 🧘‍♂️
-* Connect with ISKCON spiritual events near you 🔗
-* Interactive Gita stories for children and students ✍️
-* Pomodoro feature(with timer) along with reading Bhagavad Gita shloks in the breaks⌛
-* Stress buster spiritual games 🎮
-* Bhagavad Gita quiz 🤔
+* Connect with Pride events near you 🔗
+* Exercises for Stress Busters ✍️
+* Religious Stories and Mythologies of LGBTQIA⌛
 * Random Bhagavad Gita shlok generator with meaning, along with sharing to twitter functionality 🌟
 * Rejuvenation section for watching inspirational videos by spiritual leaders ☮️
 
