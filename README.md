@@ -60,12 +60,6 @@ Moksh is a spiritual productivity tool designed for individuals who want to unlo
 
 https://akshitagupta15june.github.io/Moksh/
 
-## Doubts
-
-If there are any doubts, you can ask here on Discord. <br>Join your Discord server and ask your doubts.
-
-[![Join our Discord channel](https://img.shields.io/badge/Join%20our-Discord-%237289DA)](https://discord.gg/Jmc97prqjb)
-
 ## Built With
 
 👉 Front-End:
