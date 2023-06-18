@@ -8,9 +8,9 @@
 
 ## Watch this to know about Moksh (Demo Video)
 
-<h5>Demo Video on Youtube - <a href="https://youtu.be/wfdF___qNME">Link</a> (In case there is an error loading the embedded video below 👇)<h5>
+<h5>Demo Video on Youtube - <a href="https://youtu.be/7I-nDQU1pac">Link</a> (In case there is an error loading the embedded video below 👇)<h5>
 
-https://github.com/Pratik-11/Moksh/assets/72139212/9a1cad69-7829-4d2b-94e8-9eadb2128b0b
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/7I-nDQU1pac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ## About The Project 💫
@@ -34,7 +34,7 @@ Within the sanctuary of Moksh, the LGBTQIA+ community discovers a haven, a space
 
 ## Demo
 
-https://akshitagupta15june.github.io/Moksh/
+https://ankita0512ghosh.github.io/Moksh/
 
 ## Built With
 
@@ -69,7 +69,7 @@ To get a local copy up and running follow these simple example steps.
 1. Clone the repo
 
 ```sh
-$ git clone https://github.com/akshitagupta15june/Moksh.git
+$ git clone https://github.com/ankita0512ghosh/Moksh.git
 ```
 
 2. Open the **index.html** file
