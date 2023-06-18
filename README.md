@@ -8,9 +8,7 @@
 
 ## Watch this to know about Moksh (Demo Video)
 
-<h5>Demo Video on Youtube - <a href="https://youtu.be/7I-nDQU1pac">Link</a> (In case there is an error loading the embedded video below 👇)<h5>
-
-https://www.youtube.com/embed/7I-nDQU1pac
+<h5>Demo Video on Youtube - <a href="https://youtu.be/7I-nDQU1pac">Link</a><h5>
 
 
 ## About The Project 💫
